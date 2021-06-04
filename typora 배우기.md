@@ -48,7 +48,7 @@ Add는 커밋할 파일 모으기
 
 $ git config --global -l
 
- 
+ ![1](md-images/1.JPG)
 
 gui.recentrepo=E:/chs_2020/study/git
 
