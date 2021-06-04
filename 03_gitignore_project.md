@@ -32,7 +32,7 @@ $ git init
       * 예) pycharm -> .idea/
     * 개발 언어(python) 혹은 프레임워크(django)에서 사용되는 파일
       * 가상환경 -venv/
-      * `_patch_`
+      * `__patch__/` ...
 
 ![image-20210604101530179](md-images/image-20210604101530179.png)
 
